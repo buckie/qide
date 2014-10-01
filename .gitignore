@@ -52,3 +52,32 @@ docs/_build/
 
 # PyBuilder
 target/
+# pycharm
+.idea/
+
+# for if I make ipython notebooks...
+notebooks/
+
+.DS_Store
+*.db
+*.pyc
+*.swp
+*~
+db_repository
+flask
+node_modules
+*.c
+*.pyd
+build/
+_site/
+.sass-cache/
+.DS_Store
+*.pyc
+*.pyo
+env
+env*
+dist/
+*.egg
+*.egg-info
+_mailinglist
+.tox
